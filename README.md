@@ -19,7 +19,3 @@ dotnet publish -c Release
 ```
 
 Output: `bin\Release\net8.0\win-x64\publish\UUIDBR.exe`
-
-## Requirements
-
-- A Windows 10/11 operating system
