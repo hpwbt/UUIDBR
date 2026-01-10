@@ -9,11 +9,9 @@ UUIDBR is a Windows context menu tool that bulk renames files to UUIDs.
 
 ## Installation
 
-### Manual:
-
-1. Download "UUIDBR.zip" from the releases page
+1. Download "UUIDBR.zip" from the [releases](../../releases/latest) page
 1. Place `UUIDBR.exe` in `%LOCALAPPDATA%\Programs\UUIDBR\`
-1. In `UUIDBR.reg`, replace `USERNAME` with your username before merging
+1. In `UUIDBR.reg`, replace `<USERNAME>` with your actual username before merging
 
 ## Building
 ```powershell
