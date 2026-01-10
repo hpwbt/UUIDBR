@@ -1,6 +1,6 @@
 # Overview
 
-UUIDBR is a Windows context menu tool that bulk renames files to UUIDs.
+UUIDBR is a Windows context menu tool that bulk renames files and directories to UUIDs.
 
 ## Modes
 
