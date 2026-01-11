@@ -14,6 +14,7 @@ UUIDBR is a Windows context menu tool that bulk renames files and directories to
 1. In `UUIDBR.reg`, replace `<USERNAME>` with your actual username before merging
 
 ## Building
+
 ```powershell
 dotnet publish -c Release
 ```
